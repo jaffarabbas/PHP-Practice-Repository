@@ -1,0 +1,20 @@
+#php gitignore
+/vendor/
+/.idea/
+.env
+/.vscode/
+/.env.local
+/.env.*.local
+/.phpunit.result.cache
+/.build/
+/.php-cs-fixer.cache
+/.phpstorm.meta.php
+/.DS_Store
+/.history/
+/.grunt/
+/nbproject/
+/.sass-cache/
+/Thumbs.db
+/.vagrant/
+/.cache/
+/.tox/
